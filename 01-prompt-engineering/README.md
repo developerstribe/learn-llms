@@ -69,6 +69,10 @@ Make your tone concise and professional. Follow this structure:
 <formatting_example>{{Q1_REPORT}}</formatting_example>
 ```
 
+## Next
+
+The [next course](../02-structured-output/README.md) will show practical example of generating structured outputs that can be used in an application.
+
 ## Resources
 
 - [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
