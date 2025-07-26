@@ -5,10 +5,11 @@ Are you a developer that somehow managed to stay away from building applications
 ## Plan
 
 - Run LLM models locally with Ollama
-- Prompt engineering
-- Get structured outputs
-- Agents and tools
-- Search local docs/text with a Retrieval-Augmented Generation (RAG) workflow
+- [Prompt engineering](./01-prompt-engineering/README.md)
+- [Get structured outputs](./02-structured-output/README.md)
+- [Tools and agents](./03-tools-and-agents/README.md)
+- Upcoming: Search local docs/text with a Retrieval-Augmented Generation (RAG) workflow
+- Upcoming: Serve and consume AI workflows with Model Context Protocol (MCP)
 
 
 ## Prep

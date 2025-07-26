@@ -21,7 +21,7 @@ ollama run llama3.2:3b
 
 ## Family Guy vs South Park
 
-When working with a model (from scratch) you can give it initial instructions, aka **system prompt**. Instructions vary from single sentence "You are helpful yada yada..." to a wall of text describing every condition. The model adheres to those instructions (most of the time) when generating response. To set a system message in ollama, use <span style="color: orange;">/set system</span> sub command. See the example below:
+When working with a model (from scratch) you can give it initial instructions, aka **system prompt**. Instructions vary from single sentence "You are helpful yada yada..." to a wall of text describing every condition. The model adheres to those instructions (most of the time) when generating response. To set a system message in ollama, use `/set system` sub command. See the example below:
 
 
 ```console
@@ -68,6 +68,11 @@ Use this data for your report:<data>{{SPREADSHEET_DATA}}</data>
 Make your tone concise and professional. Follow this structure:
 <formatting_example>{{Q1_REPORT}}</formatting_example>
 ```
+
+While this (system) prompt does not work as is (needs values for `{{SPREADSHEET_DATA}}` and  `{{Q1_REPORT}}`), it shows following directives:
+
+- defines role for the model 
+- uses XML notation to encapsulate important data points or information. Another way would be Markdown formatting
 
 ## Next
 

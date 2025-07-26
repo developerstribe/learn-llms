@@ -28,6 +28,11 @@ name='Uzbekistan ...
 
 Note: I skipped an intro to LangChain, I hope it's generic usage is obvious from the example.
 
+## Next
+
+The [next course](../03-tools-and-agents/README.md) will show practical example of generating structured outputs that can be used in an application.
+
+
 ## References
 
 - [Ollama with LangChain](https://python.langchain.com/docs/integrations/chat/ollama/)

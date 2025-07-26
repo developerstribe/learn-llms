@@ -1,0 +1,17 @@
+{
+    "chinese": {
+      "Panda Express": "123 Main St, Springfield",
+      "Chow Mein Palace": "456 Elm St, Springfield",
+      "Dragon's Den": "789 Oak St, Springfield"
+    },
+    "italian": {
+      "Olive Garden": "321 Maple Ave, Springfield",
+      "Pasta House": "654 Pine St, Springfield",
+      "Pizza Planet": "987 Cedar St, Springfield"
+    },
+    "uzbek": {
+      "Anjir": "101 Uzbek St, Tashkent",
+      "Hadra Gumma": "202 Uzbek Ave, Tashkent",
+      "Nomdor": "303 Uzbek Blvd, Tashkent"
+    }
+  }
